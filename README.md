@@ -615,13 +615,13 @@
                             <p>Cada paso, cada giro, cada ritmo fortalece tu corazón y libera tu espíritu.</p>
                         </div>
                     </div>
-                    <div class="carousel-slide" style="background: linear-gradient(rgba(255, 0, 110, 0.3), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=1200');">
+                    <div class="carousel-slide" style="background: linear-gradient(rgba(255, 0, 110, 0.3), rgba(0, 0, 0, 0.5)), url('5.png');">
                         <div class="slide-overlay">
                             <h2>Energía Positiva</h2>
                             <p>Descubre el poder del baile para mejorar tu estado de ánimo y tu bienestar físico.</p>
                         </div>
                     </div>
-                    <div class="carousel-slide" style="background: linear-gradient(rgba(0, 153, 255, 0.3), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1520095972714-909e91b038e5?w=1200');">
+                    <div class="carousel-slide" style="background: linear-gradient(rgba(0, 153, 255, 0.3), rgba(0, 0, 0, 0.5)), url('4.png');">
                         <div class="slide-overlay">
                             <h2>Comunidad y Conexión</h2>
                             <p>Únete a una comunidad vibrante donde el baile nos conecta a todos.</p>
