@@ -603,7 +603,7 @@
         <div class="section-content">
             <div class="carousel-container" id="carousel">
                 <div class="carousel-track" id="carouselTrack">
-                    <div class="carousel-slide" style="background: linear-gradient(rgba(255, 0, 110, 0.3), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=1200');">
+                    <div class="carousel-slide" style="background: linear-gradient(rgba(255, 0, 110, 0.3), rgba(0, 0, 0, 0.5)), url('7.png');">
                         <div class="slide-overlay">
                             <h2>Baila y Transforma tu Vida</h2>
                             <p>El baile es más que movimiento, es una expresión del alma que transforma tu cuerpo y mente.</p>
