@@ -642,7 +642,7 @@
     <!-- SECCIÓN 2: VIDEO SALSA -->
     <section id="section2">
         <div class="section-content">
-            <div class="video-section" style="background-image: url('https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=1200');">
+            <div class="video-section" style="background-image: url('5.png');">
                 <div class="video-overlay" id="videoOverlay2">
                     <div class="play-btn" onclick="playVideo('video2', 'videoOverlay2')"></div>
                 </div>
