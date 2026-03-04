@@ -609,7 +609,7 @@
                             <p>El baile es más que movimiento, es una expresión del alma que transforma tu cuerpo y mente.</p>
                         </div>
                     </div>
-                    <div class="carousel-slide" style="background: linear-gradient(rgba(0, 153, 255, 0.3), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1518834107812-67b0b7c58434?w=1200');">
+                    <div class="carousel-slide" style="background: linear-gradient(rgba(0, 153, 255, 0.3), rgba(0, 0, 0, 0.5)), url('6.png');">
                         <div class="slide-overlay">
                             <h2>Salud en Movimiento</h2>
                             <p>Cada paso, cada giro, cada ritmo fortalece tu corazón y libera tu espíritu.</p>
