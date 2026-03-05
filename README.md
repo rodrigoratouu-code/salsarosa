@@ -661,7 +661,7 @@
     <!-- SECCIÓN 3: VIDEO FITNESS -->
     <section id="section3">
         <div class="section-content">
-            <div class="video-section" style="background-image: url('https://images.unsplash.com/photo-1518834107812-67b0b7c58434?w=1200');">
+            <div class="video-section" style="background-image: url('1.png');">
                 <div class="video-overlay" id="videoOverlay3">
                     <div class="play-btn" onclick="playVideo('video3', 'videoOverlay3')"></div>
                 </div>
@@ -680,7 +680,7 @@
     <!-- SECCIÓN 4: VIDEO BALLET -->
     <section id="section4">
         <div class="section-content">
-            <div class="video-section" style="background-image: url('https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=1200');">
+            <div class="video-section" style="background-image: url('2.png');">
                 <div class="video-overlay" id="videoOverlay4">
                     <div class="play-btn" onclick="playVideo('video4', 'videoOverlay4')"></div>
                 </div>
