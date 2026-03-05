@@ -305,7 +305,7 @@
             justify-content: center;
             color: var(--light);
             font-size: 1.5rem;
-            transition: all 0.3s ease;
+            transition: all 0.2s ease;
             border: 2px solid var(--glass-border);
         }
 
