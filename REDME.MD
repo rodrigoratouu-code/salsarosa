@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Baile & Salud - Muévete, Vive, Siente</title>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+   <!-- Open Graph / WhatsApp -->
+<meta property="og:title" content="ritmolatino" />
+<meta property="og:description" content="ritmolatino en Barcelona" />
+<meta property="og:image" content="https://rodrigoratouu-code.github.io/salsarosa/mini.webp" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://rodrigoratouu-code.github.io/salsarosa/" />
     <style>
         * {
             margin: 0;
