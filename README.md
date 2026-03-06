@@ -1,24 +1,74 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Baile & Salud - Muévete, Vive, Siente</title>
-    <!-- Open Graph / WhatsApp -->
-<meta property="og:title" content="ritmolatino" />
-<meta property="og:description" content="ritmolatino en Barcelona" />
-<meta property="og:image" content="https://rodrigoratouu-code.github.io/salsarosa/mini.webp" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://rodrigoratouu-code.github.io/salsarosa/" />
 
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="salsarosa" />
-<meta name="twitter:description" content="bailelatino" />
-<meta name="twitter:image" content="https://rodrigoratouu-code.github.io/salsarosa/mini.webp" />
+  <!-- ═══════════════════════ ESENCIAL ═══════════════════════ -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Ritmo Latino Barcelona · Baile & Salud</title>
 
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+  <!-- ═══════════════════════ SEO BASE ══════════════════════ -->
+  <meta name="description"    content="Escuela de baile latino en Barcelona. Clases de Salsa, Fitness Dance y Ballet. ¡Muévete, vive y siente el ritmo!">
+  <meta name="keywords"       content="baile latino, salsa barcelona, clases de baile, ritmo latino, fitness dance, ballet, salsarosa">
+  <meta name="author"         content="Ritmo Latino Barcelona">
+  <meta name="robots"         content="index, follow">
+  <meta name="theme-color"    content="#1a1a2e">
+
+  <!-- ═══════════════ OPEN GRAPH (WhatsApp / Facebook) ══════ -->
+  <meta property="og:type"        content="website">
+  <meta property="og:url"         content="https://rodrigoratouu-code.github.io/salsarosa/">
+  <meta property="og:site_name"   content="Ritmo Latino Barcelona">
+  <meta property="og:title"       content="Ritmo Latino Barcelona · Baile & Salud">
+  <meta property="og:description" content="Escuela de baile latino en Barcelona. Salsa, Fitness Dance y Ballet Clásico.">
+  <meta property="og:image"       content="https://rodrigoratouu-code.github.io/salsarosa/mini.webp">
+  <meta property="og:image:type"  content="image/webp">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height"content="630">
+  <meta property="og:image:alt"   content="Bailarina de salsa en Barcelona — Ritmo Latino">
+  <meta property="og:locale"      content="es_ES">
+
+  <!-- ═══════════════ TWITTER CARD (X / Twitter) ════════════ -->
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:site"        content="@salsarosa">
+  <meta name="twitter:title"       content="Ritmo Latino Barcelona · Baile & Salud">
+  <meta name="twitter:description" content="Escuela de baile latino en Barcelona. Salsa, Fitness Dance y Ballet Clásico.">
+  <meta name="twitter:image"       content="https://rodrigoratouu-code.github.io/salsarosa/mini.webp">
+  <meta name="twitter:image:alt"   content="Bailarina de salsa en Barcelona — Ritmo Latino">
+
+  <!-- ═══════════════════════ FAVICON ═══════════════════════ -->
+  <link rel="icon"             type="image/webp" href="mini.webp">
+  <link rel="apple-touch-icon"                   href="mini.webp">
+
+  <!-- ═══════════════════════ RENDIMIENTO ═══════════════════ -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload"    as="image" href="mini.webp" type="image/webp">
+
+  <!-- ═══════════════════════ FUENTES ═══════════════════════ -->
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <!-- ═══════════════════ JSON-LD SCHEMA ════════════════════ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "DanceSchool",
+    "name": "Ritmo Latino Barcelona",
+    "description": "Escuela de baile latino en Barcelona. Clases de Salsa, Fitness Dance y Ballet Clásico.",
+    "url": "https://rodrigoratouu-code.github.io/salsarosa/",
+    "image": "https://rodrigoratouu-code.github.io/salsarosa/mini.webp",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Barcelona",
+      "addressCountry": "ES"
+    },
+    "sameAs": [
+      "https://instagram.com/salsarosa",
+      "https://tiktok.com/@salsarosa"
+    ]
+  }
+  </script>
+  
     <style>
         * {
             margin: 0;
