@@ -8,15 +8,15 @@
     <!-- Open Graph / WhatsApp -->
 <meta property="og:title" content="ritmolatino" />
 <meta property="og:description" content="ritmolatino en Barcelona" />
-<meta property="og:image" content="https://rodrigoratouu-code.github.io/salsarosa/uno.webp" />
+<meta property="og:image" content="https://rodrigoratouu-code.github.io/salsarosa/mini.webp" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://rodrigoratouu-code.github.io/yaniri/" />
+<meta property="og:url" content="https://rodrigoratouu-code.github.io/salsarosa/" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="salsarosa" />
 <meta name="twitter:description" content="bailelatino" />
-<meta name="twitter:image" content="https://rodrigoratouu-code.github.io/salsarosa/uno.webp" />
+<meta name="twitter:image" content="https://rodrigoratouu-code.github.io/salsarosa/mini.webp" />
 
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
