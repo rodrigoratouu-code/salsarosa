@@ -2,128 +2,74 @@
 <html lang="es">
 <head>
 
-  <!-- ═══════════════════════════════════════════════════════════
-       METADATOS ESENCIALES
-       Base técnica: codificación, idioma y viewport responsive
-  ═══════════════════════════════════════════════════════════ -->
+  <!-- ═══════════════════════ ESENCIAL ═══════════════════════ -->
   <meta charset="UTF-8">
-  <!-- Viewport responsive: escala 1:1 en móviles, sin zoom forzado -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Fuerza al modo de compatibilidad más reciente en IE/Edge legacy -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Ritmo Latino Barcelona · Baile & Salud</title>
 
-     <!-- Open Graph / WhatsApp -->
-<meta property="og:title" content="ritmolatino" />
-<meta property="og:description" content="ritmolatino en Barcelona" />
-<meta property="og:image" content="https://rodrigoratouu-code.github.io/salsarosa/mini.webp" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://rodrigoratouu-code.github.io/salsarosa/" />
+  <!-- ═══════════════════════ SEO BASE ══════════════════════ -->
+  <meta name="description"    content="Escuela de baile latino en Barcelona. Clases de Salsa, Fitness Dance y Ballet. ¡Muévete, vive y siente el ritmo!">
+  <meta name="keywords"       content="baile latino, salsa barcelona, clases de baile, ritmo latino, fitness dance, ballet, salsarosa">
+  <meta name="author"         content="Ritmo Latino Barcelona">
+  <meta name="robots"         content="index, follow">
+  <meta name="theme-color"    content="#1a1a2e">
 
-  <!-- ═══════════════════════════════════════════════════════════
-       IDENTIDAD DEL SITIO
-       Título, descripción y palabras clave para buscadores
-  ═══════════════════════════════════════════════════════════ -->
-  <title>Baile & Salud · Muévete, Vive, Siente</title>
-
-  <!-- Descripción que aparece en los resultados de Google (max. 160 car.) -->
-  <meta name="description" content="Escuela de baile y bienestar. Clases de Salsa, Fitness Dance y Ballet Clásico. Muévete, cuida tu salud y conecta con tu cuerpo a través del movimiento.">
-
-  <!-- Palabras clave (menor peso en SEO moderno, pero aún útiles) -->
-  <meta name="keywords" content="baile, salud, salsa, fitness dance, ballet, clases de baile, bienestar, movimiento, escuela de baile">
-
-  <!-- Autor del sitio -->
-  <meta name="author" content="Baile & Salud">
-
-  <!-- Robots: permite indexación completa y seguimiento de enlaces -->
-  <meta name="robots" content="index, follow">
-
-  <!-- Idioma del contenido para buscadores -->
-  <meta name="language" content="Spanish">
-
-  <!-- Color de la barra de navegación del navegador (Chrome/Android) -->
-  <meta name="theme-color" content="#1a1a2e">
-
-  <!-- ═══════════════════════════════════════════════════════════
-       OPEN GRAPH — REDES SOCIALES (Facebook, WhatsApp, LinkedIn…)
-       Controla cómo se ve el enlace al compartirlo
-  ═══════════════════════════════════════════════════════════ -->
-  <!-- Tipo de contenido: página web estándar -->
-  <meta property="og:type" content="website">
-
-  <!-- Título que aparece en la vista previa del link -->
-  <meta property="og:title" content="Baile & Salud · Muévete, Vive, Siente">
-
-  <!-- Descripción de la vista previa -->
-  <meta property="og:description" content="Clases de Salsa, Fitness Dance y Ballet Clásico. Transforma tu cuerpo y mente a través del baile.">
-
-  <!-- URL canónica del sitio (reemplaza con el dominio real) -->
-  <meta property="og:url" content="https://bailesalud.com">
-
-  <!-- Nombre del sitio que aparece en la card -->
-  <meta property="og:site_name" content="Baile & Salud">
-
-  <!-- Imagen de la vista previa — usa mini.webp (recomendado: 1200×630px) -->
-  <meta property="og:image" content="mini.webp">
-  <meta property="og:image:type" content="image/webp">
+  <!-- ═══════════════ OPEN GRAPH (WhatsApp / Facebook) ══════ -->
+  <meta property="og:type"        content="website">
+  <meta property="og:url"         content="https://rodrigoratouu-code.github.io/salsarosa/">
+  <meta property="og:site_name"   content="Ritmo Latino Barcelona">
+  <meta property="og:title"       content="Ritmo Latino Barcelona · Baile & Salud">
+  <meta property="og:description" content="Escuela de baile latino en Barcelona. Salsa, Fitness Dance y Ballet Clásico.">
+  <meta property="og:image"       content="https://rodrigoratouu-code.github.io/salsarosa/mini.webp">
+  <meta property="og:image:type"  content="image/webp">
   <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Bailarina danzando al aire libre — Baile & Salud">
+  <meta property="og:image:height"content="630">
+  <meta property="og:image:alt"   content="Bailarina de salsa en Barcelona — Ritmo Latino">
+  <meta property="og:locale"      content="es_ES">
 
-  <!-- Idioma del contenido para Open Graph -->
-  <meta property="og:locale" content="es_ES">
+  <!-- ═══════════════ TWITTER CARD (X / Twitter) ════════════ -->
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:site"        content="@salsarosa">
+  <meta name="twitter:title"       content="Ritmo Latino Barcelona · Baile & Salud">
+  <meta name="twitter:description" content="Escuela de baile latino en Barcelona. Salsa, Fitness Dance y Ballet Clásico.">
+  <meta name="twitter:image"       content="https://rodrigoratouu-code.github.io/salsarosa/mini.webp">
+  <meta name="twitter:image:alt"   content="Bailarina de salsa en Barcelona — Ritmo Latino">
 
-  <!-- ═══════════════════════════════════════════════════════════
-       TWITTER CARDS — Vista previa en Twitter / X
-       "summary_large_image" muestra la imagen grande arriba del texto
-  ═══════════════════════════════════════════════════════════ -->
-  <!-- Formato de card con imagen grande -->
-  <meta name="twitter:card" content="summary_large_image">
+  <!-- ═══════════════════════ FAVICON ═══════════════════════ -->
+  <link rel="icon"             type="image/webp" href="mini.webp">
+  <link rel="apple-touch-icon"                   href="mini.webp">
 
-  <!-- Handle de Twitter del sitio (reemplaza con el real si existe) -->
-  <meta name="twitter:site" content="@bailesalud">
-
-  <!-- Título de la card -->
-  <meta name="twitter:title" content="Baile & Salud · Muévete, Vive, Siente">
-
-  <!-- Descripción de la card -->
-  <meta name="twitter:description" content="Clases de Salsa, Fitness Dance y Ballet Clásico. Cuida tu salud bailando.">
-
-  <!-- Imagen de la card — la misma mini.webp -->
-  <meta name="twitter:image" content="mini.webp">
-  <meta name="twitter:image:alt" content="Bailarina danzando al aire libre — Baile & Salud">
-
-  <!-- ═══════════════════════════════════════════════════════════
-       FAVICON — Ícono en la pestaña del navegador
-       Usa mini.webp directamente como ícono moderno
-  ═══════════════════════════════════════════════════════════ -->
-  <!-- Favicon principal (browsers modernos aceptan WebP) -->
-  <link rel="icon" type="image/webp" href="mini.webp">
-
-  <!-- Ícono para iOS (cuando se añade a pantalla de inicio) -->
-  <link rel="apple-touch-icon" href="mini.webp">
-
-  <!-- ═══════════════════════════════════════════════════════════
-       RENDIMIENTO Y PRECARGA
-       Carga anticipada de recursos críticos para mayor velocidad
-  ═══════════════════════════════════════════════════════════ -->
-  <!-- Preconecta con Google Fonts para reducir latencia DNS -->
+  <!-- ═══════════════════════ RENDIMIENTO ═══════════════════ -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload"    as="image" href="mini.webp" type="image/webp">
 
-  <!-- Precarga la imagen hero para que esté lista al renderizar -->
-  <link rel="preload" as="image" href="mini.webp" type="image/webp">
-
-  <!-- ═══════════════════════════════════════════════════════════
-       TIPOGRAFÍA
-       Bebas Neue (títulos display) + Poppins (texto general)
-  ═══════════════════════════════════════════════════════════ -->
+  <!-- ═══════════════════════ FUENTES ═══════════════════════ -->
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 
-  <!-- ═══════════════════════════════════════════════════════════
-       DATOS ESTRUCTURADOS — JSON-LD (Schema.org)
-       Le dice a Google qué tipo de negocio es este sitio.
-       Puede generar "rich results" en la búsqueda.
-  ═══════════════════════════════════════════════════════════ -->
+  <!-- ═══════════════════ JSON-LD SCHEMA ════════════════════ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "DanceSchool",
+    "name": "Ritmo Latino Barcelona",
+    "description": "Escuela de baile latino en Barcelona. Clases de Salsa, Fitness Dance y Ballet Clásico.",
+    "url": "https://rodrigoratouu-code.github.io/salsarosa/",
+    "image": "https://rodrigoratouu-code.github.io/salsarosa/mini.webp",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Barcelona",
+      "addressCountry": "ES"
+    },
+    "sameAs": [
+      "https://instagram.com/salsarosa",
+      "https://tiktok.com/@salsarosa"
+    ]
+  }
+  </script>
+
+  <style>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
